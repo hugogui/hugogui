@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hugo Guilerme, @hugogui
+- 👋 Hi, I’m Hugo Guilherme, @hugogui
 I'm Industrial enginner, as data sicentis apprentice.
 - 👀 I’m interested in data science.
 - 🌱 I’m currently learning Python and the yours libraries, Pandas, MatploLib, Seaborn etc...
